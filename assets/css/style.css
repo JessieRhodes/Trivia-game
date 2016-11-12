@@ -1,0 +1,18 @@
+h1 {
+	font-family: 'Trirong', serif;
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+}
+p, h2, div {
+	font-family: 'Trirong', serif;
+	text-align: center;
+	font-size: 25px;
+}
+.btn {
+	background: #DFDFDE;
+	
+}
+body {
+	background-color: #DF462B
+}
